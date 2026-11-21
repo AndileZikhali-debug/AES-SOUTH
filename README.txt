@@ -10,8 +10,6 @@ Files:
 Preview:
 Open index.html in a browser. For editing, use VS Code or any text editor.
 
-IMPORTANT LOGO NOTE:
-The uploaded logo image was not available as a separate image file in the website-building workspace, so this package uses a temporary emblem inspired by the constitution's described colours and Africa motif. Replace assets/aes-logo-placeholder.svg with the official logo (or update the image paths in index.html) before publishing.
 
 CONTACT FORM:
 The form opens the visitor's email application and prepares a message to info@aessouthafrica.co.za. It does not save enquiries to a database. A live website form requires a backend or form service.
