@@ -16,8 +16,3 @@ The uploaded logo image was not available as a separate image file in the websit
 CONTACT FORM:
 The form opens the visitor's email application and prepares a message to info@aessouthafrica.co.za. It does not save enquiries to a database. A live website form requires a backend or form service.
 
-BEFORE PUBLISHING:
-- Replace the temporary emblem with the official logo.
-- Confirm the membership wording and recruitment process with AES SOUTH leadership.
-- Confirm all constitutional and legal claims with the organisation's legal advisers.
-- Connect a domain and hosting.
