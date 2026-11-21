@@ -1,16 +1,14 @@
-AES SOUTH WEBSITE — QUICK START
-
-Files:
-- index.html: page content and structure
-- styles.css: colours, layout, typography and responsive design
-- script.js: mobile navigation and enquiry form behaviour
-- assets/aes-logo-placeholder.svg: temporary emblem placeholder
-- AES_SOUTH_Constitution.pdf: constitution download linked from the website
-
-Preview:
-Open index.html in a browser. For editing, use VS Code or any text editor.
 
 
-CONTACT FORM:
-The form opens the visitor's email application and prepares a message to info@aessouthafrica.co.za. It does not save enquiries to a database. A live website form requires a backend or form service.
+PREMIUM MEMBERSHIP & YOUTH PORTAL
+- register.html is the separate recruitment and registration page.
+- register.css contains its independent premium styling.
+- register.js is where the Google Forms embed URL is configured.
+- Main-site navigation and youth calls-to-action link to register.html.
 
+GOOGLE FORMS SETUP
+1. Create your form in Google Forms.
+2. Click Send, then the <> Embed HTML option.
+3. Copy the iframe src URL (the URL ending in viewform?embedded=true).
+4. In register.js, paste it inside the quotes for GOOGLE_FORM_EMBED_URL.
+5. Commit and push the updated files to GitHub.
